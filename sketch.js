@@ -39,7 +39,7 @@ function draw() {
 
      }
 
-    wall.shapeColor = "orange"
+   // wall.shapeColor = "orange"
    // when it gets hit
 
 
